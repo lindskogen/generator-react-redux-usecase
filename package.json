@@ -1,7 +1,7 @@
 {
   "name": "generator-react-redux-usecase",
   "version": "1.0.0",
-  "description": "",
+  "description": "Generates a react-redux file structure",
   "files": [
     "app"
   ],
