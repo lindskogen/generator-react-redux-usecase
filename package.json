@@ -5,11 +5,13 @@
   "files": [
     "app"
   ],
+  "main": "app/index.js",
   "keywords": [
     "yeoman-generator"
   ],
   "author": "Johan Lindskogen <johan.lindskogen@gmail.com>",
   "license": "MIT",
+  "repository": "lindskogen/generator-react-redux-usecase",
   "dependencies": {
     "lodash": "^4.6.1",
     "yeoman-generator": "^0.22.5"
